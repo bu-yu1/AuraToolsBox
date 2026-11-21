@@ -1,0 +1,13 @@
+{
+  "title": "我的工具箱",
+  "groups": [
+    { "name": "AI 工具", "items": [] },
+    { "name": "CTF / 安全", "items": [] },
+    { "name": "游戏", "items": [] },
+    { "name": "开发", "items": [] },
+    { "name": "影音", "items": [] },
+    { "name": "办公通讯", "items": [] },
+    { "name": "系统工具", "items": [] },
+    { "name": "网盘", "items": [] }
+  ]
+}
