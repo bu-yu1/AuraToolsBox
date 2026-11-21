@@ -1,0 +1,9 @@
+# 运行时会生成的位置记录
+widget_pos.txt
+run.log
+debug.log
+
+# 系统
+Thumbs.db
+desktop.ini
+S
